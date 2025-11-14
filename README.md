@@ -23,8 +23,8 @@ source activate ldsc
 Once the above has completed, you can run:
 
 ```
-./ldsc.py -h
-./munge_sumstats.py -h
+ldsc.py -h
+munge_sumstats.py -h
 ```
 to print a list of all command-line options. If these commands fail with an error, then something as gone wrong during the installation process. 
 
